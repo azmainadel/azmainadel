@@ -5,3 +5,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azmainadel&show_icons=true"/>
 </p>
+
+<p align="center">
+ <img align='center' src="https://komarev.com/ghpvc/?username=azmainadel" alt="azmainadel" /> 
+</p>
+
