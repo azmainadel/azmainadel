@@ -1,17 +1,15 @@
 <!--
 **azmainadel/azmainadel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 <h1 align="center">Hello 👋, I'm Azmain Adel.</h1>
 <h3 align="center">"I turn coffee into code, use tabs over spaces, and sometimes despise myself as a software engineer."</h3>
 
 - 👨‍💻 Personal site: [https://azmainadel.site/](https://azmainadel.site/)
-
 - 📝 Some stuff I wrote: [https://azmainadel.site/blog/](https://azmainadel.site/blog/)
-
 - 📫 Reach me: **azmainadel47@gmail.com**
-
 - 📄 Check out my resume: [https://azmainadel.site/resume/](https://azmainadel.site/resume/)
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
