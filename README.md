@@ -26,5 +26,3 @@
 ✉️ &nbsp;You can drop me an email at azmainadel47@gmail.com with subject containing *"GitHub: Let's talk!"*.\
 📄 &nbsp;Check out my [random blogs](https://azmainadel.me/blog/).\
 🐦 &nbsp;I'm only active on Twitter: [@azmainadel_](https://twitter.com/azmainadel_)
-
----
