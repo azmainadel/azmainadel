@@ -3,7 +3,7 @@
 
 ---
 
-<h3 align="center">Full stack engineer (MERN/Python/DevOps) @<a href='https://intelligentmachin.es'>Intelligent Machines</a> • Ex-Jr. software engineer @<a href='https://field.buzz'>Field Buzz</a> • Deep tech enthusiast ○ Mastering system design • Aspiring polyglot dev </h3>
+<h3 align="center">Full stack engineer (MERN/Python/DevOps) @<a href='https://intelligentmachin.es'>Intelligent Machines</a> • Ex-Jr. software engineer @<a href='https://field.buzz'>Field Buzz</a> • Deep tech enthusiast • Mastering system design • Aspiring polyglot dev </h3>
 
 
 <!-- - 👨‍💻 Personal site: [https://azmainadel.site/](https://azmainadel.me/)
