@@ -20,9 +20,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=azmainadel&show_icons=true"/>
 </p>
 
-🎓 &nbsp;On track with learning more about DevOps and software achitecture.\
-✍️ &nbsp;In my free time, I watch a lot of Twitch and push my rank on Apex Legends.\
-💬 &nbsp;Let'a have a Meet or Zoom call, feel free to pick a slot on [Calendly](https://calendly.com/azmainadel/30min).\
+💡 &nbsp;On track with learning more about DevOps and software achitecture.\
+🎮 &nbsp;In my free time, I watch a lot of Twitch and push my rank on *Apex Legends*.\
+🤝🏻 &nbsp;Let'a have a Meet or Zoom call, feel free to pick a slot on [Calendly](https://calendly.com/azmainadel/30min).\
 ✉️ &nbsp;You can drop me an email at azmainadel47@gmail.com with subject containing *"GitHub: Let's talk!"*.\
 📄 &nbsp;Check out my [random blogs](https://azmainadel.me/blog/).\
-🐦 &nbsp;I'm only active on Twitter: [@azmainadel_](https://twitter.com/azmainadel_)
+🐦 &nbsp;I'm active on Twitter: [@azmainadel_](https://twitter.com/azmainadel_)
