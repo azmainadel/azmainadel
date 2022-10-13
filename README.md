@@ -24,5 +24,5 @@
 🎮 &nbsp;In my free time, I watch a lot of Twitch and push my rank on *Apex Legends*.\
 🤝🏻 &nbsp;Let'a have a Meet or Zoom call, feel free to pick a slot on <a href="https://calendly.com/azmainadel/30min" target="_blank">Calendly</a>. <br>
 ✉️ &nbsp;You can drop me an email at azmainadel47@gmail.com with subject containing *"GitHub: Let's talk!"*.\
-📄 &nbsp;Check out my <a href="https://azmainadel.me/blog/" target="_blank">random blogs</a>. <br> 
+📄 &nbsp;Check out my <a href="https://azmainadel.github.io/blog/" target="_blank">random blogs</a>. <br> 
 🐦 &nbsp;I'm active on Twitter: <a href="https://twitter.com/azmainadel_" target="_blank">@azmainadel_</a>.
