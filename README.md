@@ -22,7 +22,7 @@
 
 💡 &nbsp;On track with learning more about system design and software achitecture.\
 📄 &nbsp;Check out my <a href="https://azmainadel.github.io/blog/" target="_blank">random writings</a>. <br> 
-💻 &nbsp;Trying to make some <a href="https://azmainadel.github.io/blog/" target="_blank">open source contributions</a>. <br> 
+💻 &nbsp;Trying to make some <a href="https://github.com/azmainadel/contribution-tracker" target="_blank">open source contributions</a>. <br> 
 🤝🏻 &nbsp;Let'a have a Meet or Zoom call, feel free to pick a slot on <a href="https://calendly.com/azmainadel/30min" target="_blank">Calendly</a>. <br>
 ✉️ &nbsp;You can drop me an email at azmainadel47@gmail.com with the subject containing *"GitHub: Let's talk!"*.\
 🐦 &nbsp;I'm active on Twitter: <a href="https://twitter.com/azmainadel_" target="_blank">@azmainadel_</a>. More socials under my GitHub profile-pic. \
