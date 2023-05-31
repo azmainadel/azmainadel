@@ -3,7 +3,7 @@
 
 ---
 
-<h4 align="center">Full stack engineer (MERN/Python/DevOps), <a href='https://intelligentmachin.es'>Intelligent Machines</a> • Ex-software engineer, <a href='https://field.buzz'>Field Buzz</a> • CS Graduate, <a href='https://buet.ac.bd'>BUET</a> • Deep tech enthusiast • Learning system design • Aspiring polyglot dev • Studying business • Football x FPL • Part-time gamer</h4>
+<h4 align="center">Full stack engineer (MERN/Python/DevOps), <a href='https://intelligentmachin.es'>Intelligent Machines</a> • Ex-software engineer, <a href='https://field.buzz'>Field Buzz</a> • CS Graduate, <a href='https://buet.ac.bd'>BUET</a> • Deep tech enthusiast • Learning system design • Aspiring polyglot dev • Football x FPL • Part-time gamer</h4>
 
 
 <!-- - 👨‍💻 Personal site: [https://azmainadel.site/](https://azmainadel.me/)
