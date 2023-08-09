@@ -3,7 +3,7 @@
 
 ---
 
-<h4 align="center">Full stack engineer (MERN/Python/DevOps), <a href='https://intelligentmachin.es'>Intelligent Machines</a> • Ex-software engineer, <a href='https://field.buzz'>Field Buzz</a> • CS Graduate, <a href='https://buet.ac.bd'>BUET</a> • Deep tech enthusiast • Learning system design • Aspiring polyglot dev • Football x FPL • Part-time gamer</h4>
+<p align="center">Full stack engineer (MERN/Python/DevOps), <a href='https://intelligentmachin.es'>Intelligent Machines</a> • Ex-software engineer, <a href='https://field.buzz'>Field Buzz</a> • CS Graduate, <a href='https://buet.ac.bd'>BUET</a> • Deep tech enthusiast • Learning system design • Aspiring polyglot dev • Football x FPL • Part-time gamer</p>
 
 
 <!-- - 👨‍💻 Personal site: [https://azmainadel.site/](https://azmainadel.me/)
@@ -28,4 +28,4 @@
 🐦 &nbsp;I'm active on Twitter: <a href="https://twitter.com/azmainadel_" target="_blank">@azmainadel_</a>. More socials under my GitHub profile-pic. \
 🎮 &nbsp;In my free time, I push my rank on *Apex Legends*.
 
-<sub><sup>Last edited on: 10/05/2023</sup></sub>
+<sub><sup>Last edited on: 09/08/2023</sup></sub>
