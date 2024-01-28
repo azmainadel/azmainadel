@@ -22,15 +22,15 @@
 </p>
 --->
 
-> **Current:** Mass data migration pipelines, Data automation, Data reporting engineering, CMS engineering <br/>
-> **Past:** Backend engineering, Microservices, Database management, Cluster management, Multi-cloud system design, Frontend development, Android app development <br/>
-> **Learning:** Large-scale system design, Multiple web stacks, Systems programming
+**Current:** *Mass data migration pipelines, Data automation, Data reporting engineering, CMS engineering* <br/>
+**Past:** *Backend engineering, Microservices, Database management, Cluster management, Multi-cloud system design, Frontend development, Android app development* <br/>
+**Learning:** *Large-scale system design, Multiple web stacks, Systems programming*
 
-More technically, <br />
-> **Current:** `Python`, `FastAPI`, `Flask`, `AWS`, `Jenkins`, `Docker`, `Kubernetes` <br/>
-> **Past:** `Java`, `Android`, `JS`, `Django`, `NodeJs`, `ExpressJs`, `NextJs`, `React`, `MongoDB`, `ScyllaDB`, `PostgreSQL`, `RealmDB`, `Azure`, `Redis`, `RabbitMQ` <br/>
-> **Learning:** `Rust`, `TS`, `T3 Stack`, `gRPC`, `Go`
-       
+*If you want to be more technical,* <br /> <br />
+**Current:** *`Python`, `FastAPI`, `Flask`, `AWS`, `Jenkins`, `Docker`, `Kubernetes`* <br/>
+**Past:** *`Java`, `Android`, `JS`, `Django`, `NodeJs`, `ExpressJs`, `NextJs`, `React`, `MongoDB`, `ScyllaDB`, `PostgreSQL`, `RealmDB`, `Azure`, `Redis`, `RabbitMQ`* <br/>
+**Learning:** *`Rust`, `TS`, `T3 Stack`, `gRPC`, `Go`*
+<br /> <br />
 
 <!--- 📄 &nbsp;Check out my <a href="https://azmainadel.github.io/blog/" target="_blank">random writings</a>. <br> --->
 <!--- 💡 &nbsp;On track with learning more about system design and software architecture. <br>  --->
