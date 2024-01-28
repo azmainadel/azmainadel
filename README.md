@@ -42,5 +42,5 @@
 ✉️ &nbsp;You can drop me an email at azmainadel47@gmail.com with the subject containing *"GitHub: Let's talk!"*.\
 🐦 &nbsp;I'm active on Twitter/X: <a href="https://twitter.com/azmainadel_" target="_blank">@azmainadel_</a>. More socials are under the profile photo.
 
-
+<sub><sup>Inspired by the profile README of [@MuhtasimTanmoy](https://github.com/MuhtasimTanmoy)  • </sup></sub>
 <sub><sup>Last edited on: 28/01/2024</sup></sub>
