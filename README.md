@@ -3,7 +3,7 @@
 
 ---
 
-<p align="center">Software Engineer II, <a href='https://optimizely.com'>Optimizely Inc</a> • Previously <a href='https://intelligentmachin.es'>Intelligent Machines</a>, <a href='https://field.buzz'>Field Buzz</a> • CS Graduate, <a href='https://buet.ac.bd'>BUET</a> • Deep tech enthusiast • Learning system design • Aspiring polyglot dev • Football x FPL • Part-time gamer</p>
+<p align="center">Software Engineer, <a href='https://optimizely.com'>Optimizely Inc</a> • Previously <a href='https://intelligentmachin.es'>Intelligent Machines</a>, <a href='https://field.buzz'>Field Buzz</a> • CS Graduate, <a href='https://buet.ac.bd'>BUET</a> • Deep tech enthusiast • Aspiring large-scale system architect • Football x FPL • Part-time gamer</p>
 
 
 <!-- - 👨‍💻 Personal site: [https://azmainadel.site/](https://azmainadel.me/)
@@ -22,7 +22,7 @@
 </p>
 --->
 
-**Current:** *Mass data migration pipelines, Data automation, Data reporting engineering, CMS engineering* <br/>
+**Current:** *Mass data migration pipelines, Data automation, Integration engineering, CMS engineering* <br/>
 **Past:** *Backend engineering, Microservices, Database management, Cluster management, Multi-cloud system design, Frontend development, Android app development* <br/>
 **Learning:** *Large-scale system design, Multiple web stacks, Systems programming*
 
