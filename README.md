@@ -37,4 +37,4 @@
  <img align='center' src="https://komarev.com/ghpvc/?username=azmainadel" alt="azmainadel" /> 
 </p>
 <sub><sup>Inspired by the profile README of <a href="https://github.com/MuhtasimTanmoy" target="_blank">@MuhtasimTanmoy</a> • </sup></sub>
-<sub><sup>Last edited on: 06/02/2024</sup></sub>
+<sub><sup>Last edited on: 26 Jun, 2024</sup></sub>
