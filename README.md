@@ -3,7 +3,7 @@
 *<p align="center">"I turn coffee into code, use tabs over spaces, and sometimes despise myself as an engineer."</p>*
 --->
 ---
-<p align="center">Software Engineer, <a href='https://optimizely.com'>Optimizely Inc</a> • Previously <a href='https://intelligentmachin.es'>Intelligent Machines</a>, <a href='https://field.buzz'>Field Buzz</a> • CS Graduate, <a href='https://buet.ac.bd'>BUET</a> • Building AI SaaS Tools • Aspiring large-scale system architect • Football x FPL • Part-time gamer</p>
+<p align="center">Software Engineer, <a href='https://optimizely.com'>Optimizely Inc</a> • Previously <a href='https://intelligentmachin.es'>Intelligent Machines</a>, <a href='https://field.buzz'>Field Buzz</a> • CS Graduate, <a href='https://buet.ac.bd'>BUET</a> • Building AI SaaS tools • Aspiring large-scale system architect • Football x FPL • Part-time gamer</p>
 
 💻 &nbsp;Trying to make some <a href="https://github.com/azmainadel/contribution-tracker" target="_blank">open source contributions</a>. <br> 
 🤝🏻 &nbsp;Let'a have a *Meet* or *Zoom* call, feel free to pick a slot on <a href="https://calendly.com/azmainadel/30min" target="_blank">Calendly</a>. <br>
