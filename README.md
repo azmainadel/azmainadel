@@ -22,11 +22,9 @@
 </p>
 --->
 
-**Current:** *Mass data migration pipelines, Data automation, Integration engineering, CMS engineering*
-
-**Past:** *Backend engineering, Microservices, Database management, Cluster management, Multi-cloud system design, Frontend development, Android app development* <br/>
-
-**Learning:** *Large-scale system design, Multiple web stacks, Systems programming* <br/>
+**Current:** Mass data migration pipelines, Data automation, Integration engineering, CMS engineering <br/>
+**Past:** Backend engineering, Microservices, Database management, Cluster management, Multi-cloud system design, Frontend development, Android app development <br/>
+**Learning:** Large-scale system design, Multiple web stacks, Systems programming <br/>
 
 
 <!--- 📄 &nbsp;Check out my <a href="https://azmainadel.github.io/blog/" target="_blank">random writings</a>. <br> --->
