@@ -7,7 +7,7 @@
 
 💻 &nbsp;Trying to make some <a href="https://github.com/azmainadel/contribution-tracker" target="_blank">open source contributions</a>. <br> 
 🤝🏻 &nbsp;Let'a have a *Meet* or *Zoom* call, feel free to pick a slot on <a href="https://calendly.com/azmainadel/30min" target="_blank">Calendly</a>. <br>
-✉️ &nbsp;You can drop me an email at azmainadel47@gmail.com with the subject containing *"GitHub: Let's talk!"*.\
+✉️ &nbsp;You can drop me an email at contact@azmaindel.com with the subject containing *"GitHub: Let's talk!"*.\
 🐦 &nbsp;I'm active on Twitter/X: <a href="https://twitter.com/azmainadel_" target="_blank">@azmainadel_</a>. More socials are under the profile photo.
 
 <!-- - 👨‍💻 Personal site: [https://azmainadel.site/](https://azmainadel.me/)
