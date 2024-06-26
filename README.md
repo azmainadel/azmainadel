@@ -7,7 +7,8 @@
 
 💻 &nbsp;Trying to make some <a href="https://github.com/azmainadel/contribution-tracker" target="_blank">open source contributions</a>. <br> 
 🤝🏻 &nbsp;Let'a have a *Meet* or *Zoom* call, feel free to pick a slot on <a href="https://calendly.com/azmainadel/30min" target="_blank">Calendly</a>. <br>
-✉️ &nbsp;You can drop me an email at contact@azmaindel.com with the subject containing *"GitHub: Let's talk!"*.\
+✉️ &nbsp;You can drop me an email at contact@azmaindel.com with the subject containing *"GitHub: Let's talk!"*. <br>
+🌐 &nbsp;Visit my noob-ish website situated at <a href="https://azmainadel.com" target="_blank">azmainadel.com</a>. <br> 
 🐦 &nbsp;I'm active on Twitter/X: <a href="https://twitter.com/azmainadel_" target="_blank">@azmainadel_</a>. More socials are under the profile photo.
 
 <!-- - 👨‍💻 Personal site: [https://azmainadel.site/](https://azmainadel.me/)
@@ -22,13 +23,11 @@
 --->
 
 **Current:** *Mass data migration pipelines, Data automation, Integration engineering, CMS engineering*
-> *`Python`, `FastAPI`, `Flask`, `AWS`, `Jenkins`, `Docker`, `Kubernetes`* <br/>
 
 **Past:** *Backend engineering, Microservices, Database management, Cluster management, Multi-cloud system design, Frontend development, Android app development* <br/>
-> *`Java`, `Android`, `JS`, `Django`, `NodeJs`, `ExpressJs`, `NextJs`, `React`, `MongoDB`, `ScyllaDB`, `PostgreSQL`, `Realm`, `Azure`, `Redis`, `RabbitMQ`*
 
 **Learning:** *Large-scale system design, Multiple web stacks, Systems programming* <br/>
-> *`Rust`, `TS`, `T3 Stack`, `gRPC`, `Go`* <br/>
+
 
 <!--- 📄 &nbsp;Check out my <a href="https://azmainadel.github.io/blog/" target="_blank">random writings</a>. <br> --->
 <!--- 💡 &nbsp;On track with learning more about system design and software architecture. <br>  --->
