@@ -5,13 +5,13 @@
 ---
 <p align="center">Software Engineer, <a href='https://optimizely.com'>Optimizely Inc</a> • Previously <a href='https://intelligentmachin.es'>Intelligent Machines</a>, <a href='https://field.buzz'>Field Buzz</a> • CS Graduate, <a href='https://buet.ac.bd'>BUET</a> • Building AI SaaS tools • Aspiring large-scale system architect • Football x FPL • Part-time gamer</p>
 
-💻 &nbsp;Trying to make some <a href="https://github.com/azmainadel/contribution-tracker" target="_blank">open source contributions</a>. <br> 
 🤝🏻 &nbsp;Let'a have a *Meet* or *Zoom* call, feel free to pick a slot on <a href="https://calendly.com/azmainadel/30min" target="_blank">Calendly</a>. <br>
 ✉️ &nbsp;You can drop me an email at contact@azmaindel.com with the subject containing *"GitHub: Let's talk!"*. <br>
 🌐 &nbsp;Visit my noob-ish website situated at <a href="https://azmainadel.com" target="_blank">azmainadel.com</a>. <br> 
 🐦 &nbsp;I'm active on Twitter/X: <a href="https://twitter.com/azmainadel_" target="_blank">@azmainadel_</a>. More socials are under the profile photo.
 
 <!-- - 👨‍💻 Personal site: [https://azmainadel.site/](https://azmainadel.me/)
+💻 &nbsp;Trying to make some <a href="https://github.com/azmainadel/contribution-tracker" target="_blank">open source contributions</a>. <br> 
 - 📝 Some stuff I wrote: [https://azmainadel.site/blog/](https://azmainadel.site/blog/)
 - 📫 Reach me: **azmainadel47@gmail.com**
 - 📄 Check out my resume: [https://azmainadel.site/resume/](https://azmainadel.site/resume/) -->
