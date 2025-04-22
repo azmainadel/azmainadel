@@ -3,7 +3,7 @@
 *<p align="center">"I turn coffee into code, use tabs over spaces, and sometimes despise myself as an engineer."</p>*
 --->
 ---
-<p align="center">Software Engineer, <a href='https://optimizely.com'>Optimizely Inc</a> • Co-founded and Building <a href='https://monsha.ai'>Monsha.AI</a> • Previously <a href='https://intelligentmachin.es'>Intelligent Machines</a>, <a href='https://field.buzz'>Field Buzz</a> • CS Graduate, <a href='https://buet.ac.bd'>BUET</a> • Aspiring large-scale system architect • Football x FPL • Part-time gamer</p>
+<p align="center">Co-founded and building <a href='https://monsha.ai'>Monsha.AI</a> • Previously <a href='https://optimizely.com'>Optimizely Inc</a>, <a href='https://intelligentmachin.es'>Intelligent Machines</a>, <a href='https://field.buzz'>Field Buzz</a> • CS Graduate, <a href='https://buet.ac.bd'>BUET</a> • Aspiring large-scale system architect • Football x FPL • Part-time gamer</p>
 
 🤝🏻 &nbsp;Let'a have a *Meet* or *Zoom* call, feel free to pick a slot on <a href="https://calendly.com/azmainadel/30min" target="_blank">Calendly</a>. <br>
 ✉️ &nbsp;You can drop me an email at contact@azmaindel.com with the subject containing *"GitHub: Let's talk!"*. <br>
