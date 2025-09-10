@@ -3,7 +3,3 @@
 *<p align="center">"I turn coffee into code, use tabs over spaces, and sometimes despise myself as an engineer."</p>*
 --->
 <p align="center">Co-founded and building <a href='https://monsha.ai'>Monsha</a> • Previously <a href='https://optimizely.com'>Optimizely Inc</a>, <a href='https://intelligentmachin.es'>Intelligent Machines</a>, <a href='https://field.buzz'>Field Buzz</a> • CS Graduate, <a href='https://buet.ac.bd'>BUET</a> &nbsp; <img align='center' src="https://komarev.com/ghpvc/?username=azmainadel" alt="azmainadel" />  </p>
-
-🤝🏻 &nbsp;<a href="https://cal/azmainadel" target="_blank">Schedule a call</a> <br>
-✉️ &nbsp;contact@azmaindel.com with the subject *"Hi from GitHub!"* <br>
-🌐 &nbsp;<a href="https://azmainadel.com" target="_blank">azmainadel.com</a> <br> 
